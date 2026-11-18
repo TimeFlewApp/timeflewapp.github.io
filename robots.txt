@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://timeflewapp.github.io/sitemap.xml
